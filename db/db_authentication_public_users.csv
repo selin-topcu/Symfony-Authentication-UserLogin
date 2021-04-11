@@ -1,0 +1,2 @@
+2,admin@gmail.com,"[""ROLE_ADMIN""]","$argon2id$v=19$m=65536,t=4,p=1$UkVIeFJTdEJLWDRLL3hEbw$f+0bCU+0gaeqoxBXitUO9XDo9ge1rc4KtZJwkwmRBbA"
+1,deneme@gmail.com,"[""ROLE_USER""]","$argon2id$v=19$m=65536,t=4,p=1$Q1JLeDREcWV2S2d1OHU1cw$/HEQ27mmnFLkGExSV73JL+dGgIouHurdfnVv28QZGbU"
